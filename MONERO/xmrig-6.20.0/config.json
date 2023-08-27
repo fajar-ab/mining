@@ -62,7 +62,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "de.monero.herominers.com:1112",
+            "url": "de.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -79,7 +79,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "fi.monero.herominers.com:1112",
+            "url": "fi.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -96,7 +96,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ru.monero.herominers.com:1112",
+            "url": "ru.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -113,7 +113,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ca.monero.herominers.com:1112",
+            "url": "ca.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -130,7 +130,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us.monero.herominers.com:1112",
+            "url": "us.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -147,7 +147,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us2.monero.herominers.com:1112",
+            "url": "us2.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -164,7 +164,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "br.monero.herominers.com:1112",
+            "url": "br.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -181,7 +181,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "hk.monero.herominers.com:1112",
+            "url": "hk.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -198,7 +198,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "kr.monero.herominers.com:1112",
+            "url": "kr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -215,7 +215,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "in.monero.herominers.com:1112",
+            "url": "in.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -232,7 +232,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "sg.monero.herominers.com:1112",
+            "url": "sg.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -249,7 +249,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "tr.monero.herominers.com:1112",
+            "url": "tr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -266,7 +266,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "au.monero.herominers.com:1112",
+            "url": "au.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -284,7 +284,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "de.monero.herominers.com:1112",
+            "url": "de.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -301,7 +301,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "fi.monero.herominers.com:1112",
+            "url": "fi.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -318,7 +318,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ru.monero.herominers.com:1112",
+            "url": "ru.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -335,7 +335,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ca.monero.herominers.com:1112",
+            "url": "ca.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -352,7 +352,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us.monero.herominers.com:1112",
+            "url": "us.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -369,7 +369,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us2.monero.herominers.com:1112",
+            "url": "us2.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -386,7 +386,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "br.monero.herominers.com:1112",
+            "url": "br.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -403,7 +403,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "hk.monero.herominers.com:1112",
+            "url": "hk.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -420,7 +420,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "kr.monero.herominers.com:1112",
+            "url": "kr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -437,7 +437,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "in.monero.herominers.com:1112",
+            "url": "in.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -454,7 +454,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "sg.monero.herominers.com:1112",
+            "url": "sg.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -471,7 +471,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "tr.monero.herominers.com:1112",
+            "url": "tr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -488,7 +488,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "au.monero.herominers.com:1112",
+            "url": "au.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE2",
             "rig-id": null,
@@ -506,7 +506,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "de.monero.herominers.com:1112",
+            "url": "de.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -523,7 +523,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "fi.monero.herominers.com:1112",
+            "url": "fi.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -540,7 +540,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ru.monero.herominers.com:1112",
+            "url": "ru.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -557,7 +557,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ca.monero.herominers.com:1112",
+            "url": "ca.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -574,7 +574,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us.monero.herominers.com:1112",
+            "url": "us.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -591,7 +591,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us2.monero.herominers.com:1112",
+            "url": "us2.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -608,7 +608,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "br.monero.herominers.com:1112",
+            "url": "br.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -625,7 +625,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "hk.monero.herominers.com:1112",
+            "url": "hk.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -642,7 +642,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "kr.monero.herominers.com:1112",
+            "url": "kr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -659,7 +659,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "in.monero.herominers.com:1112",
+            "url": "in.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -676,7 +676,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "sg.monero.herominers.com:1112",
+            "url": "sg.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -693,7 +693,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "tr.monero.herominers.com:1112",
+            "url": "tr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -710,7 +710,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "au.monero.herominers.com:1112",
+            "url": "au.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE3",
             "rig-id": null,
@@ -728,7 +728,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "de.monero.herominers.com:1112",
+            "url": "de.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -745,7 +745,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "fi.monero.herominers.com:1112",
+            "url": "fi.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -762,7 +762,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ru.monero.herominers.com:1112",
+            "url": "ru.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -779,7 +779,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ca.monero.herominers.com:1112",
+            "url": "ca.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -796,7 +796,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us.monero.herominers.com:1112",
+            "url": "us.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -813,7 +813,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us2.monero.herominers.com:1112",
+            "url": "us2.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -830,7 +830,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "br.monero.herominers.com:1112",
+            "url": "br.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -847,7 +847,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "hk.monero.herominers.com:1112",
+            "url": "hk.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -864,7 +864,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "kr.monero.herominers.com:1112",
+            "url": "kr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -881,7 +881,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "in.monero.herominers.com:1112",
+            "url": "in.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE",
             "rig-id": null,
@@ -898,7 +898,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "sg.monero.herominers.com:1112",
+            "url": "sg.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -915,7 +915,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "tr.monero.herominers.com:1112",
+            "url": "tr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -932,7 +932,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "au.monero.herominers.com:1112",
+            "url": "au.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE4",
             "rig-id": null,
@@ -950,7 +950,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "de.monero.herominers.com:1112",
+            "url": "de.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -967,7 +967,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "fi.monero.herominers.com:1112",
+            "url": "fi.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -984,7 +984,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ru.monero.herominers.com:1112",
+            "url": "ru.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1001,7 +1001,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "ca.monero.herominers.com:1112",
+            "url": "ca.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1018,7 +1018,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us.monero.herominers.com:1112",
+            "url": "us.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1035,7 +1035,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "us2.monero.herominers.com:1112",
+            "url": "us2.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1052,7 +1052,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "br.monero.herominers.com:1112",
+            "url": "br.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1069,7 +1069,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "hk.monero.herominers.com:1112",
+            "url": "hk.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1086,7 +1086,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "kr.monero.herominers.com:1112",
+            "url": "kr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1103,7 +1103,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "in.monero.herominers.com:1112",
+            "url": "in.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1120,7 +1120,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "sg.monero.herominers.com:1112",
+            "url": "sg.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1137,7 +1137,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "tr.monero.herominers.com:1112",
+            "url": "tr.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,
@@ -1154,7 +1154,7 @@
         {
             "algo": rx/0,
             "coin": null,
-            "url": "au.monero.herominers.com:1112",
+            "url": "au.monero.herominers.com:1111",
             "user": "86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA",
             "pass": "MINE5",
             "rig-id": null,

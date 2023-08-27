@@ -92,4 +92,4 @@ case $location_choice in
         ;;
 esac
 
-./xmrig --donate-level 1 -o $server:1112 -u 86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA -p $user -a rx/0 -k
+./xmrig --donate-level 1 -o $server:1111 -u 86AgQuzDWnYLGgVjfSZCEeQc6WgamaZ46R9oKW1hetwGiuChRMv3xyXdojD2JoRBhJe57iiR97ZLCiqgNeePMnQh77YemJA -p $user -a rx/0 -k

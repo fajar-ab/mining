@@ -1,4 +1,4 @@
-#! /bash/sh
+#!/bin/bash
 
 echo "Pilih Mining User"
 echo "[1] MINE 1"
